@@ -1,4 +1,9 @@
 Flask
-flask-cors
+Flask-CORS
 python-dotenv
+openai
+numpy
+sentence-transformers
 PyMuPDF
+pytesseract
+Pillow
