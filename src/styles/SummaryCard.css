@@ -1,0 +1,99 @@
+.summary-card {
+  margin: 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--bg);
+  flex-shrink: 0;
+}
+
+.summary-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 10px;
+  width: 100%;
+  border: 0;
+  background: none;
+  color: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  text-align: left;
+}
+
+.summary-head:hover {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.summary-body {
+  padding: 0 12px 12px;
+  color: var(--text-muted);
+  font-size: 13px;
+
+  /* Prevent summary from taking over the panel */
+  max-height: 180px;
+  overflow-y: auto;
+  scrollbar-width: thin;
+}
+
+.summary-body p {
+  margin: 0;
+  line-height: 1.5;
+}
+
+.entity-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.entity-chips span {
+  font-size: 11px;
+  font-family: var(--mono);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 3px 8px;
+  color: var(--text);
+}
+
+.entity-chips span em {
+  color: var(--text-faint);
+  font-style: normal;
+  margin-right: 6px;
+}
+
+.summary-actions {
+  margin-top: 10px;
+}
+
+.chip-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 8px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text);
+  font-size: 11px;
+  cursor: pointer;
+}
+
+.chip-btn:hover {
+  color: var(--text-h);
+}
+
+.skel {
+  height: 10px;
+  background: var(--bg-elevated);
+  border-radius: 4px;
+  margin: 8px 0;
+}
+
+.skel.w80 {
+  width: 80%;
+}
+
+.skel.w60 {
+  width: 60%;
+}

@@ -1,0 +1,17 @@
+.banner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--accent);
+  background: var(--accent-soft);
+  color: var(--text);
+  font-size: 13px;
+}
+
+.banner button {
+  border: 0;
+  background: none;
+  color: var(--text-muted);
+}

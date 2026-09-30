@@ -1,0 +1,96 @@
+.sources-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.cite-chip {
+  font-family: var(--mono);
+  font-size: 11px;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  color: var(--text);
+  border-radius: 4px;
+  padding: 2px 6px;
+  position: relative;
+}
+
+.cite-chip:hover,
+.cite-chip:focus-visible {
+  border-color: var(--accent);
+}
+
+.cite-chip[data-tip]::after {
+  content: attr(data-tip);
+  display: none;
+  position: absolute;
+  left: 0;
+  bottom: calc(100% + 6px);
+  width: 240px;
+  padding: 8px;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 11px;
+  white-space: normal;
+  z-index: 5;
+  text-align: left;
+  border-radius: 6px;
+}
+
+.cite-chip:hover::after,
+.cite-chip:focus-visible::after {
+  display: block;
+}
+
+.passages {
+  margin-top: 8px;
+}
+
+.passages summary {
+  cursor: pointer;
+  font-size: 12px;
+  color: var(--text-muted);
+}
+
+.passage {
+  display: block;
+  width: 100%;
+  text-align: left;
+  margin-top: 8px;
+  padding-top: 8px;
+  border: 0;
+  border-top: 1px solid var(--border);
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
+.passage-meta {
+  display: flex;
+  justify-content: space-between;
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--text-faint);
+}
+
+.score-bar {
+  height: 4px;
+  background: var(--bg-elevated);
+  border-radius: 99px;
+  margin: 6px 0;
+}
+
+.score-bar > i {
+  display: block;
+  height: 100%;
+  background: var(--accent);
+  border-radius: 99px;
+}
+
+.passage p {
+  margin: 0;
+  font-size: 12px;
+  color: var(--text-muted);
+}

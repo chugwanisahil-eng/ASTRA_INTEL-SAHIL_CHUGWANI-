@@ -1,0 +1,111 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [8 0 R 9 0 R 10 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 582 >>
+stream
+BT
+/F1 11 Tf
+72 720 Td
+16 TL
+(ASTRA INTEL  |  Unclassified // Training sample) Tj
+T* (C2 Integration Whitepaper for Joint UAS Employment) Tj
+T* () Tj
+T* (This paper describes how unmanned systems plug into a joint command and) Tj
+T* (control architecture. It complements the 2024 UAS capability brief.) Tj
+T* () Tj
+T* (Coalition tasking depends on common datalink profiles and shared) Tj
+T* (track numbering so that a NATO Combined Air Operations Centre can) Tj
+T* (reassign an air vehicle without a full re-brief of the aircrew-equivalent) Tj
+T* (mission team on the ground.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 469 >>
+stream
+BT
+/F1 11 Tf
+72 720 Td
+16 TL
+(Interoperability notes) Tj
+T* (STANAG 4586 remains the baseline control interface. National extensions) Tj
+T* (must not break the core message set used for take-off, payload cueing) Tj
+T* (and lost-link handling.) Tj
+T* () Tj
+T* (Compared with platform-centric briefs, this paper emphasises the ground) Tj
+T* (segment: multi-vehicle control, spectrum deconfliction, and the human) Tj
+T* (authorisation loop for any munition release.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 494 >>
+stream
+BT
+/F1 11 Tf
+72 720 Td
+16 TL
+(Differences from platform capability documents) Tj
+T* (Capability briefs list sensors and air vehicle classes. This whitepaper) Tj
+T* (instead lists C2 failure modes: SATCOM fade, control-station power loss,) Tj
+T* (and cross-domain guard delays when tracks move to classified networks.) Tj
+T* () Tj
+T* (Similarities include the same requirement for redundant C2 links and) Tj
+T* (the prohibition on autonomous target engagement without a human in the loop.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 309 >>
+stream
+BT
+/F1 11 Tf
+72 720 Td
+16 TL
+(Recommendations) Tj
+T* (Fund dual-path datalinks before additional airframes.) Tj
+T* (Exercise lost-link and GNSS-denied profiles quarterly.) Tj
+T* (Keep a common operational picture feed into the maritime operations centre) Tj
+T* (for ship-to-shore surveillance missions.) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000135 00000 n 
+0000000205 00000 n 
+0000000838 00000 n 
+0000001358 00000 n 
+0000001903 00000 n 
+0000002263 00000 n 
+0000002389 00000 n 
+0000002515 00000 n 
+0000002642 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+2769
+%%EOF

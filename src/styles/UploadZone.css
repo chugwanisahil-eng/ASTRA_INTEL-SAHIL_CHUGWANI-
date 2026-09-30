@@ -1,0 +1,45 @@
+.upload-zone {
+  margin: auto;
+  max-width: 460px;
+  width: calc(100% - 32px);
+  border: 1px dashed var(--border);
+  border-radius: 12px;
+  padding: 40px 24px;
+  text-align: center;
+  background: var(--bg-panel);
+  color: var(--text-muted);
+}
+
+.upload-zone.drag {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.upload-zone h2 {
+  margin: 12px 0 6px;
+  color: var(--text);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.upload-zone p {
+  margin: 0 0 16px;
+  font-size: 13px;
+}
+
+.upload-reqs {
+  font-size: 12px;
+  font-family: var(--mono);
+  color: var(--text-faint);
+  margin-bottom: 16px;
+}
+
+.upload-error {
+  color: var(--danger);
+  font-size: 13px;
+  margin-bottom: 12px;
+}
+
+.file-input {
+  display: none;
+}

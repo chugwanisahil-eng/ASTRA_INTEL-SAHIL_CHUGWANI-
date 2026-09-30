@@ -1,0 +1,164 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 766 >>
+stream
+BT
+/F1 11 Tf
+72 720 Td
+16 TL
+(ASTRA INTEL  |  Unclassified // Training sample) Tj
+T* (Unmanned Aerial Systems Capability Brief 2024) Tj
+T* () Tj
+T* (1. Purpose) Tj
+T* (This brief outlines current unmanned aerial systems \(UAS\) roles in) Tj
+T* (intelligence, surveillance and reconnaissance \(ISR\) and tactical strike.) Tj
+T* (Group 2-3 UAS platforms provide persistent ISR coverage over contested) Tj
+T* (littoral approaches without exposing aircrew to surface-to-air threats.) Tj
+T* () Tj
+T* (2. Force design) Tj
+T* (A mixed fleet of medium-altitude long-endurance air vehicles and smaller) Tj
+T* (tactical quadcopters is recommended for brigade and joint task force use.) Tj
+T* (Attritable airframes should be stocked to absorb expected combat loss rates.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 540 >>
+stream
+BT
+/F1 11 Tf
+72 720 Td
+16 TL
+(3. Command and control) Tj
+T* (Beyond visual line of sight operations require redundant C2 links,) Tj
+T* (including SATCOM primary and line-of-sight radio as a fallback path.) Tj
+T* (Ground control stations should implement STANAG 4586 interoperability) Tj
+T* (so allied payloads and air vehicles can be retasked during coalition ops.) Tj
+T* () Tj
+T* (Lost-link procedures must include a documented return-to-home orbit and) Tj
+T* (an automatic flight termination option over water or designated ranges.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 531 >>
+stream
+BT
+/F1 11 Tf
+72 720 Td
+16 TL
+(4. Sensors and payloads) Tj
+T* (Electro-optical / infrared turrets remain the primary ISR payload.) Tj
+T* (Synthetic aperture radar is required for weather-independent mapping of) Tj
+T* (coastal movement corridors in the Indo-Pacific theatre.) Tj
+T* (Electronic support measures can cue other sensors onto emitters of interest.) Tj
+T* () Tj
+T* (Strike variants may carry precision-guided munitions only under positive) Tj
+T* (human authorisation. Autonomous target engagement is not authorised.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 673 >>
+stream
+BT
+/F1 11 Tf
+72 720 Td
+16 TL
+(5. Major applications) Tj
+T* (Border and exclusive economic zone monitoring.) Tj
+T* (Convoy overwatch and route reconnaissance for land manoeuvre units.) Tj
+T* (Ship-to-shore surveillance during amphibious entry operations.) Tj
+T* (Battle damage assessment after stand-off fires.) Tj
+T* () Tj
+T* (6. Risks and limitations) Tj
+T* (UAS are vulnerable to cheap electronic warfare and GNSS spoofing.) Tj
+T* (High-bandwidth video is difficult to sustain under contested spectrum.) Tj
+T* (Public airspace integration still constrains training sorties near cities.) Tj
+T* (Weather, icing and icing-adjacent humidity reduce small-UAS endurance.) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 538 >>
+stream
+BT
+/F1 11 Tf
+72 720 Td
+16 TL
+(7. Key organisations and systems) Tj
+T* (MQ-9 Reaper and similar MALE types remain the theatre ISR workhorse.) Tj
+T* (General Atomics Aeronautical Systems and allied industry partners supply) Tj
+T* (airframes, while NATO working groups set payload interface standards.) Tj
+T* (National geospatial agencies consume the resulting imagery products.) Tj
+T* () Tj
+T* (Dates of interest: capability refresh programmed for 2024-2026, with) Tj
+T* (a follow-on attritable system decision expected in late 2026.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Length 348 >>
+stream
+BT
+/F1 11 Tf
+72 720 Td
+16 TL
+(8. Summary) Tj
+T* (Persistent ISR from Group 2-3 UAS is a force multiplier if C2 resilience,) Tj
+T* (spectrum management and airspace integration are funded together.) Tj
+T* (The recommended near-term focus is redundant datalinks, SAR payloads,) Tj
+T* (and training for operations in GNSS-degraded environments.) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 5 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 7 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 8 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 9 0 R /Resources << /Font << /F1 3 0 R >> >> >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000151 00000 n 
+0000000221 00000 n 
+0000001038 00000 n 
+0000001629 00000 n 
+0000002211 00000 n 
+0000002935 00000 n 
+0000003524 00000 n 
+0000003923 00000 n 
+0000004050 00000 n 
+0000004177 00000 n 
+0000004304 00000 n 
+0000004431 00000 n 
+0000004558 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R >>
+startxref
+4685
+%%EOF
