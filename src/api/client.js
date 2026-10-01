@@ -160,9 +160,10 @@ export const api = {
       'Content-Type': 'application/json',
     },
     body: JSON.stringify({
-      question: payload.question,
-      document_ids: payload.document_ids || [],
-    }),
+  question: payload.question,
+  document_ids: payload.document_ids || [],
+  mode: payload.mode || 'single',
+}),
   });
 },
 
