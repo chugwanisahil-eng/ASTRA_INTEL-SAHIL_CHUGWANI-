@@ -14,6 +14,7 @@ from routes.chat_routes import chat_bp
 from routes.conversation_routes import conversation_bp
 from routes.search_routes import search_bp
 from routes.summary_routes import summary_bp
+from routes.compare_routes import compare_bp
 app = Flask(__name__)
 CORS(
     app,
@@ -39,6 +40,7 @@ app.register_blueprint(chat_bp)
 app.register_blueprint(summary_bp)
 app.register_blueprint(conversation_bp)
 app.register_blueprint(search_bp)
+app.register_blueprint(compare_bp)
 
 
 @app.route("/")
